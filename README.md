@@ -25,4 +25,4 @@ Coming soon — I'm working on projects that demonstrate my software engineering
 ## 🤝 Connect With Me
 
 - **GitHub:** [Sardar-Usmann](https://github.com/Sardar-Usmann)
-- **LinkedIn:** Add your LinkedIn URL here
+- **LinkedIn:** 
