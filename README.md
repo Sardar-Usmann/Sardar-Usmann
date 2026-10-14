@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Sardar Muhammad Usman 👋
 
-<!--
-**Sardar-Usmann/Sardar-Usmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Graduate | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm passionate about software development, problem-solving, and building practical applications that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+
+- **Programming Languages:** To be updated
+- **Web Development:** To be updated
+- **Databases:** To be updated
+- **Developer Tools:** Git, GitHub, VS Code
+
+## 🚀 Featured Projects
+
+Coming soon — I'm working on projects that demonstrate my software engineering skills.
+
+## 📚 Currently Improving
+
+- Data Structures and Algorithms
+- Software Engineering Fundamentals
+- Database Design
+- Building Real-World Applications
+
+## 🤝 Connect With Me
+
+- **GitHub:** [Sardar-Usmann](https://github.com/Sardar-Usmann)
+- **LinkedIn:** Add your LinkedIn URL here
